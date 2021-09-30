@@ -1,3 +1,5 @@
+li{padding-left: 50px;}
+
 .App {
   text-align: center;
 }
@@ -27,6 +29,17 @@
 .App-link {
   color: #61dafb;
 }
+
+.menu {display: flex;
+  flex-direction: row;
+background-color:lightblue;}
+
+.lista { display: flex;
+flex-direction: row;
+list-style: none;
+;}
+
+.cartimg{ height: 3vh;}
 
 @keyframes App-logo-spin {
   from {
