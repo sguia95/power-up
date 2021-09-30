@@ -39,8 +39,11 @@ flex-direction: row;
 list-style: none;
 ;}
 
+<<<<<<< HEAD
 .cartimg{ height: 3vh;}
 
+=======
+>>>>>>> 90a9580a8f51f32ccfdd9edc51cbc085448f4a13
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
